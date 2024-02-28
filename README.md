@@ -10,7 +10,7 @@ TEMPERATURE AND HUMIDITY SENSOR:
  Temperature sensors are placed near the evaporator coil to measure the temperature of the air passing through the coil. These sensors can be strategically positioned on the intake and outlet sides of the coil.
      PARTICULATE MATTER (PM SENSOR):
  Optical Dust Sensors (e.g., Sharp GP2Y1010AU0F): Measures suspended particulate matter, including PM2.5 and PM10.
-![Uploading image.png…]()
+
 
 
 
