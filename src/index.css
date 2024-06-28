@@ -1,13 +1,138 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+body
+{
+    background-color: rgb(242, 253, 211);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.pre
+{
+    font-size: 60px;
+    margin-left: 320px;
+    margin-top: 180px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(62, 62, 62);
+    text-shadow: 1px 1px 2px #444, 2px 2px 2px #888;
 }
+
+.iot
+{
+    font-size: 30px;
+    margin-top: -45px ;
+    margin-left: 1050px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(62, 62, 62);
+    text-shadow: 1px 1px 2px #444, 2px 2px 2px #888;
+}
+
+.tbox
+{
+    border : 2px solid black;
+    margin-top: 120px;
+    width: 300px;
+    height: 200px;
+    margin-left: 100px;
+    padding: 10px;
+    padding-left: 30px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    background-color: rgb(255, 255, 168);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+.dbox
+{
+    border : 2px solid black;
+    margin-top: -225px;
+    width: 300px;
+    height: 200px;
+    margin-left: 600px;
+    padding: 10px;
+    padding-left: 30px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    transition: background-color 0.3s ease;
+    background-color: rgb(255, 255, 168);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+.hbox
+{
+    border : 2px solid black;
+    margin-top: -225px;
+    width: 300px;
+    height: 200px;
+    margin-left: 1100px;
+    padding: 10px;
+    padding-left: 30px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    background-color: rgb(255, 255, 168);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+.ptemp
+{
+    width: 80px;
+    height: 50px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+    margin-top: -1000px;
+}
+
+.pdust
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 120px;
+    margin-top: -1000px;
+    margin-bottom: 50px;
+}
+
+.phumi
+{
+    width: 50px;
+    height: 50px;
+    margin-left: 110px;
+    margin-top: -1000px;
+    margin-bottom: 50px;   
+}
+
+.ttemp
+{
+    margin-left: -10px;
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.tdust
+{
+    margin-left: -10px;  
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.thumi
+{
+    margin-left: -10px;
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.pwind1
+{
+    width: 150px;
+    height: 150px;
+    margin-left: 440px;
+    margin-top: -180px;
+    margin-bottom: 100px;
+}
+
+.pwind2
+{
+    width: 150px;
+    height: 150px;
+    margin-left: 350px;
+    margin-top: -180px;
+    margin-bottom: 100px;
+}
+

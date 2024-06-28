@@ -1,0 +1,92 @@
+[
+    {
+        "temperature": 30.8,
+        "humidity": 71.8,
+        "calcVoltage": 4.545898,
+        "dustDensity": 863.6207
+    },
+    {
+        "temperature": 30.9,
+        "humidity": 71.8,
+        "calcVoltage": 2.636719,
+        "dustDensity": 500.8766
+    },
+    {
+        "temperature": 30.9,
+        "humidity": 71.6,
+        "calcVoltage": 2.568359,
+        "dustDensity": 487.8883
+    },
+    {
+        "temperature": 31,
+        "humidity": 71.1,
+        "calcVoltage": 2.739258,
+        "dustDensity": 520.359
+    },
+    {
+        "temperature": 31,
+        "humidity": 70.8,
+        "calcVoltage": 2.856445,
+        "dustDensity": 542.6246
+    },
+    {
+        "temperature": 31,
+        "humidity": 70.8,
+        "calcVoltage": 3.496094,
+        "dustDensity": 664.1578
+    },
+    {
+        "temperature": 31,
+        "humidity": 70.8,
+        "calcVoltage": 3.31543,
+        "dustDensity": 629.8317
+    },
+    {
+        "temperature": 31,
+        "humidity": 70.8,
+        "calcVoltage": 2.954102,
+        "dustDensity": 561.1793
+    },
+    {
+        "temperature": 31,
+        "humidity": 70.8,
+        "calcVoltage": 2.695313,
+        "dustDensity": 512.0094
+    },
+    {
+        "temperature": 31,
+        "humidity": 70.6,
+        "calcVoltage": 2.724609,
+        "dustDensity": 517.5758
+    },
+    {
+        "temperature": 31,
+        "humidity": 70.6,
+        "calcVoltage": 2.700195,
+        "dustDensity": 512.9371
+    },
+    {
+        "temperature": 30.9,
+        "humidity": 70.7,
+        "calcVoltage": 2.363281,
+        "dustDensity": 448.9234
+    },
+    {
+        "temperature": 30.9,
+        "humidity": 70.7,
+        "calcVoltage": 3.027344,
+        "dustDensity": 575.0953
+    },
+    {
+        "temperature": 30.9,
+        "humidity": 70.8,
+        "calcVoltage": 2.856445,
+        "dustDensity": 542.6246
+    },
+    {
+        "temperature": 30.9,
+        "humidity": 70.8,
+        "calcVoltage": 2.519531,
+        "dustDensity": 478.6109
+    }
+]
