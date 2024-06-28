@@ -20,7 +20,7 @@ try:
             try:
                 json_data = json.loads(decoded_data)
                 received_data.append(json_data) 
-                with open("C:\\Users\\HIRITHIK RAJ\\Desktop\\Sem 5\\Software and Programming in IoT\\Web\\website\\src\\Components\\a.json", "w") as file:
+                with open("Your file  path", "w") as file:
                     json.dump(received_data, file, indent=4) # Append the JSON data to the list
             except json.JSONDecodeError as e:
                 print(f"Failed to parse JSON: {e}")
